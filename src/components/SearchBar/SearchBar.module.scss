@@ -1,0 +1,16 @@
+.SearchBar {
+    margin: 50px;
+    &_input{
+        border-radius: 3px;
+        border-color: blueviolet;
+        font-size: 1.4em;
+        margin-right: 10px;
+    }
+
+    &_btn {
+        background-color: whitesmoke;
+        color: blueviolet;
+        font-size: 1.4em;
+        margin-left: 10px;
+    }
+}
